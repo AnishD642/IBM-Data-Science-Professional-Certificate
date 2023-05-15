@@ -5,3 +5,5 @@ For the Python for Data Science project, I had to assume the role of a Data Scie
 For the Databases and SQL project, I have worked on multiple real-world datasets for the city of Chicago.<br/><br/>
 <b>Data Analysis using Python</b><br/>
 For the Data Analysis using Python, I had to assume the role of a Data Analyst working at a real estate investment trust organization who wants to start investing in residential real estate. Given was a dataset containing detailed information about house prices in the region based on a number of property features, and I had to analyze and predict the market price of houses given that information.<br/><br/>
+<b>Data Visualization with Python</b><br/>
+In this, I had to assume the role of a data analyst where I had been given a task to monitor and report US domestic airline flights performance. The goal is to analyze the performance of the reporting airline to improve fight reliability thereby improving customer reliability.<br/><br/>
